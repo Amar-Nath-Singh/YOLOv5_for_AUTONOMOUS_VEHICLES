@@ -1,0 +1,9 @@
+names:
+- bus
+- car
+- person
+- traffic signal
+- truck
+nc: 5
+train: Object-detection-10/train/images
+val: Object-detection-10/valid/images
